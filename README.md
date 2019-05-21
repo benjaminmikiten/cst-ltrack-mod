@@ -1,5 +1,7 @@
-# CST2545-5W Trackball Switch Mod
-Descibes a mod to the CST2545-5W Trackball to add two switches to the 1.3v PCB. The popular [/u/ripster55](https://www.reddit.com/user/ripster55) [mod](https://imgur.com/a/bhicE) describes an earlier PCB with a different location of the extra switch solder pads.
+# CST L-Trac 2545-5W Trackball Switch Mod
+Descibes a mod to the CST2545-5W Trackball to add two switches to the 1.3v PCB. These can be your button 4 and 5 on this trackball.
+
+The popular [/u/ripster55](https://www.reddit.com/user/ripster55) [mod](https://imgur.com/a/bhicE) describes an earlier PCB with a different location of the extra switch solder pads.
 
 ## J3, J4 Solder Pads
 ![Solder pads indicated in magnification with red arrows](https://raw.githubusercontent.com/benjaminmikiten/cst-ltrack-mod/master/img/photo.jpeg)
